@@ -8,7 +8,7 @@ from ecommerce.inventory import models
     [
         (1, "fashion", "fashion", 1),
         (18, "trainers", "trainers", 1),
-        (35, "baseball", "baseball", 1),
+        (36, "baseball", "baseball", 1),
     ]
 )
 def test_inventory_category_dbfixture(
